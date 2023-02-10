@@ -4,8 +4,7 @@ var cacheFiles = [
     'index.html',
     'product.js',
     'petstore.webmanifest',
-    'images/cat-food.jpeg',
-    'images/icon-store-512.png'
+    'images/cat-food.jpeg'
 ];
 
 self.addEventListener('install', (e) => {
