@@ -13,6 +13,6 @@ let products = [
      "price": 2.99,
      "image": "images/cat-food.jpeg",
      "availableInventory": 7,
-     "rating":    
+     "rating": 3    
 }
 ]
