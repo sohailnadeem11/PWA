@@ -87,7 +87,7 @@ export default {
                     subject: 'Spanish',
                     location: 'London',
                     price: 85,
-                    image: "images/Spanish.jpeg",
+                    image: "Spanish.jpeg",
                     availableInventory: 5,
                     space: 5
                 },
